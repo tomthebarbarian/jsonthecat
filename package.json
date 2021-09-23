@@ -1,0 +1,23 @@
+{
+  "name": "jsoncat",
+  "version": "1.0.0",
+  "description": "this is my dir to play with JSONs at lighthouselabs week2 day 4",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomthebarbarian/jsonthecat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomthebarbarian/jsonthecat/issues"
+  },
+  "homepage": "https://github.com/tomthebarbarian/jsonthecat#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
